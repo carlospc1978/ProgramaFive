@@ -1,0 +1,10 @@
+
+POST http://localhost:8080/api/produtos
+Content-Type: application/json
+
+{
+  "nome1Produto": "teste"
+}
+
+<> 2022-02-06T113239.404.json
+
